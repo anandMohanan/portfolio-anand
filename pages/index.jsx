@@ -1,7 +1,7 @@
 import React from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
-import styles from '../styles/home.module.css';
+import styles from '../styles/index.module.css';
 const Home = () => (
   <>
     <main className={styles.container}>
