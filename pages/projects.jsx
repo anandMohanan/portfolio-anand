@@ -18,12 +18,12 @@ const Project = () => {
           <a
             href='https://github.com/ananth7112001/clothing-react'
             style={{ marginRight: '10px' }}>
-            <Image height='30' width='30' src='/file.svg' />
+            <Image height='30' width='30' src='/file.svg' alt='github' />
           </a>
           <a
             href='https://clothing-react-by-anand.herokuapp.com/'
             style={{ marginRight: '10px' }}>
-            <Image height='30' width='30' src='/web.svg' />
+            <Image height='30' width='30' src='/web.svg' alt='live' />
           </a>
         </div>
 
@@ -37,12 +37,12 @@ const Project = () => {
           <a
             href='https://github.com/ananth7112001/post-react-express-mongodb'
             style={{ marginRight: '10px' }}>
-            <Image height='30' width='30' src='/file.svg' />
+            <Image height='30' width='30' src='/file.svg' alt='github' />
           </a>
           <a
             href='https://post-react-anandkv.netlify.app/'
             style={{ marginRight: '10px' }}>
-            <Image height='30' width='30' src='/web.svg' />
+            <Image height='30' width='30' src='/web.svg' alt='live' />
           </a>
         </div>
 
@@ -56,7 +56,7 @@ const Project = () => {
           <a
             href='https://github.com/ananth7112001/music-bot'
             style={{ marginRight: '10px' }}>
-            <Image height='30' width='30' src='/file.svg' />
+            <Image height='30' width='30' src='/file.svg' alt='github' />
           </a>
         </div>
 
@@ -70,7 +70,7 @@ const Project = () => {
           <a
             href='https://github.com/ananth7112001/lwc-conference-app'
             style={{ marginRight: '10px' }}>
-            <Image height='30' width='30' src='/file.svg' />
+            <Image height='30' width='30' src='/file.svg' alt='github' />
           </a>
         </div>
       </div>
